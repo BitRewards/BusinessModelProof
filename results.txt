@@ -1,0 +1,361 @@
+Initial price: 1 BIT = 0.00005 ETH
+
+===MONTH 1===
+3 merchants buy 99615.27 BIT for 5.00 ETH ($1500). Effective price: 1 BIT = 0.000050193106075746635 ETH
+Users sell 49807.64 BIT for 2.50 ETH. Effective price: 1 BIT = 0.000050289781880678616 ETH
+Exchanger reserve: 3642.50 ETH ($1092749)
+BIT growth percentage from beginning: 1%
+
+===MONTH 2===
+6 merchants buy 197711.76 BIT for 10.00 ETH ($3000). Effective price: 1 BIT = 0.000050578681541728845 ETH
+Users sell 103836.64 BIT for 5.27 ETH. Effective price: 1 BIT = 0.00005076225312133741 ETH
+Exchanger reserve: 3647.22 ETH ($1094167)
+BIT growth percentage from beginning: 2%
+
+===MONTH 3===
+11 merchants buy 357623.88 BIT for 18.33 ETH ($5500). Effective price: 1 BIT = 0.000051264287139316694 ETH
+Users sell 192682.14 BIT for 9.94 ETH. Effective price: 1 BIT = 0.000051591078567706236 ETH
+Exchanger reserve: 3655.62 ETH ($1096685)
+BIT growth percentage from beginning: 3%
+
+===MONTH 4===
+22 merchants buy 696921.14 BIT for 36.67 ETH ($11000). Effective price: 1 BIT = 0.000052612361458165716 ETH
+Users sell 377238.69 BIT for 20.09 ETH. Effective price: 1 BIT = 0.0000532619429911363 ETH
+Exchanger reserve: 3672.19 ETH ($1101657)
+BIT growth percentage from beginning: 7%
+
+===MONTH 5===
+44 merchants buy 1576490.46 BIT for 88.00 ETH ($26400). Effective price: 1 BIT = 0.00005582019173071957 ETH
+Users sell 845319.90 BIT for 48.52 ETH. Effective price: 1 BIT = 0.00005739402159851558 ETH
+Exchanger reserve: 3711.67 ETH ($1113502)
+BIT growth percentage from beginning: 15%
+
+===MONTH 6===
+76 merchants buy 2482797.16 BIT for 152.00 ETH ($45600). Effective price: 1 BIT = 0.00006122127200132468 ETH
+Users sell 1364775.20 BIT for 87.14 ETH. Effective price: 1 BIT = 0.00006385255604215061 ETH
+Exchanger reserve: 3776.53 ETH ($1132959)
+BIT growth percentage from beginning: 28%
+
+===MONTH 7===
+117 merchants buy 3382432.17 BIT for 234.00 ETH ($70200). Effective price: 1 BIT = 0.00006918098818115863 ETH
+Users sell 1912422.21 BIT for 139.75 ETH. Effective price: 1 BIT = 0.00007307350408529451 ETH
+Exchanger reserve: 3870.78 ETH ($1161235)
+BIT growth percentage from beginning: 46%
+
+===MONTH 8===
+169 merchants buy 4217959.92 BIT for 338.00 ETH ($101400). Effective price: 1 BIT = 0.00008013352581177 ETH
+Users sell 2451745.61 BIT for 209.68 ETH. Effective price: 1 BIT = 0.0000855220656327839 ETH
+Exchanger reserve: 3999.10 ETH ($1199731)
+BIT growth percentage from beginning: 71%
+
+===MONTH 9===
+230 merchants buy 4878471.00 BIT for 460.00 ETH ($138000). Effective price: 1 BIT = 0.00009429183848724262 ETH
+Users sell 2918481.95 BIT for 295.61 ETH. Effective price: 1 BIT = 0.00010128747571216865 ETH
+Exchanger reserve: 4163.50 ETH ($1249050)
+BIT growth percentage from beginning: 103%
+
+===MONTH 10===
+298 merchants buy 5336812.28 BIT for 596.00 ETH ($178800). Effective price: 1 BIT = 0.00011167715263852856 ETH
+Users sell 3290744.25 BIT for 395.80 ETH. Effective price: 1 BIT = 0.00012027618852360856 ETH
+Exchanger reserve: 4363.70 ETH ($1309110)
+BIT growth percentage from beginning: 141%
+
+===MONTH 11===
+375 merchants buy 5664447.19 BIT for 750.00 ETH ($225000). Effective price: 1 BIT = 0.00013240480056601629 ETH
+Users sell 3596613.68 BIT for 513.06 ETH. Effective price: 1 BIT = 0.0001426500789095002 ETH
+Exchanger reserve: 4600.64 ETH ($1380193)
+BIT growth percentage from beginning: 185%
+
+===MONTH 12===
+463 merchants buy 5910309.14 BIT for 926.00 ETH ($277800). Effective price: 1 BIT = 0.00015667539181091273 ETH
+Users sell 3858434.59 BIT for 650.69 ETH. Effective price: 1 BIT = 0.00016863967118197593 ETH
+Exchanger reserve: 4875.96 ETH ($1462788)
+BIT growth percentage from beginning: 237%
+
+===MONTH 13===
+562 merchants buy 6876228.37 BIT for 1311.33 ETH ($393400). Effective price: 1 BIT = 0.00019070532010515554 ETH
+Users sell 4478112.36 BIT for 929.70 ETH. Effective price: 1 BIT = 0.00020761066409540267 ETH
+Exchanger reserve: 5257.59 ETH ($1577276)
+BIT growth percentage from beginning: 315%
+
+===MONTH 14===
+675 merchants buy 6878436.85 BIT for 1575.00 ETH ($472500). Effective price: 1 BIT = 0.0002289764424090396 ETH
+Users sell 4653912.33 BIT for 1152.73 ETH. Effective price: 1 BIT = 0.0002476905111965333 ETH
+Exchanger reserve: 5679.86 ETH ($1703957)
+BIT growth percentage from beginning: 395%
+
+===MONTH 15===
+796 merchants buy 6855010.77 BIT for 1857.33 ETH ($557200). Effective price: 1 BIT = 0.00027094535604801445 ETH
+Users sell 4801611.28 BIT for 1398.58 ETH. Effective price: 1 BIT = 0.0002912734982615876 ETH
+Exchanger reserve: 6138.61 ETH ($1841583)
+BIT growth percentage from beginning: 483%
+
+===MONTH 16===
+926 merchants buy 6829847.12 BIT for 2160.67 ETH ($648200). Effective price: 1 BIT = 0.00031635651993193063 ETH
+Users sell 4935130.25 BIT for 1668.80 ETH. Effective price: 1 BIT = 0.00033814733160822744 ETH
+Exchanger reserve: 6630.47 ETH ($1989142)
+BIT growth percentage from beginning: 576%
+
+===MONTH 17===
+1067 merchants buy 6819260.36 BIT for 2489.67 ETH ($746900). Effective price: 1 BIT = 0.0003650933586166493 ETH
+Users sell 5065232.47 BIT for 1966.65 ETH. Effective price: 1 BIT = 0.0003882652802016688 ETH
+Exchanger reserve: 7153.49 ETH ($2146046)
+BIT growth percentage from beginning: 677%
+
+===MONTH 18===
+1220 merchants buy 6825324.72 BIT for 2846.67 ETH ($854000). Effective price: 1 BIT = 0.0004170741738277353 ETH
+Users sell 5203594.72 BIT for 2297.06 ETH. Effective price: 1 BIT = 0.0004414366055568859 ETH
+Exchanger reserve: 7703.10 ETH ($2310929)
+BIT growth percentage from beginning: 783%
+
+===MONTH 19===
+1386 merchants buy 7594290.39 BIT for 3696.00 ETH ($1108800). Effective price: 1 BIT = 0.00048668141599899923 ETH
+Users sell 5724302.61 BIT for 2972.42 ETH. Effective price: 1 BIT = 0.0005192636010419539 ETH
+Exchanger reserve: 8426.67 ETH ($2528002)
+BIT growth percentage from beginning: 939%
+
+===MONTH 20===
+1567 merchants buy 7487978.64 BIT for 4178.67 ETH ($1253600). Effective price: 1 BIT = 0.0005580500249610325 ETH
+Users sell 5846116.93 BIT for 3453.17 ETH. Effective price: 1 BIT = 0.0005906771978038269 ETH
+Exchanger reserve: 9152.17 ETH ($2745652)
+BIT growth percentage from beginning: 1081%
+
+===MONTH 21===
+1763 merchants buy 7453795.56 BIT for 4701.33 ETH ($1410400). Effective price: 1 BIT = 0.0006307301154514934 ETH
+Users sell 5991035.57 BIT for 3974.57 ETH. Effective price: 1 BIT = 0.0006634196278531893 ETH
+Exchanger reserve: 9878.94 ETH ($2963681)
+BIT growth percentage from beginning: 1227%
+
+===MONTH 22===
+1977 merchants buy 7478724.76 BIT for 5272.00 ETH ($1581600). Effective price: 1 BIT = 0.0007049330155220899 ETH
+Users sell 6157114.01 BIT for 4542.63 ETH. Effective price: 1 BIT = 0.0007377850640889503 ETH
+Exchanger reserve: 10608.31 ETH ($3182493)
+BIT growth percentage from beginning: 1376%
+
+===MONTH 23===
+2211 merchants buy 7549944.73 BIT for 5896.00 ETH ($1768800). Effective price: 1 BIT = 0.0007809328689519633 ETH
+Users sell 6340303.43 BIT for 5161.58 ETH. Effective price: 1 BIT = 0.000814089602881177 ETH
+Exchanger reserve: 11342.73 ETH ($3402820)
+BIT growth percentage from beginning: 1528%
+
+===MONTH 24===
+2466 merchants buy 7655429.50 BIT for 6576.00 ETH ($1972800). Effective price: 1 BIT = 0.0008589981790583294 ETH
+Users sell 6544360.95 BIT for 5839.80 ETH. Effective price: 1 BIT = 0.000892340432987701 ETH
+Exchanger reserve: 12078.94 ETH ($3623681)
+BIT growth percentage from beginning: 1685%
+
+===MONTH 25===
+2746 merchants buy 8514929.06 BIT for 8238.00 ETH ($2471400). Effective price: 1 BIT = 0.0009674772321665989 ETH
+Users sell 7127485.16 BIT for 7227.81 ETH. Effective price: 1 BIT = 0.001014075629013702 ETH
+Exchanger reserve: 13089.13 ETH ($3926738)
+BIT growth percentage from beginning: 1928%
+
+===MONTH 26===
+3040 merchants buy 8500069.76 BIT for 9120.00 ETH ($2736000). Effective price: 1 BIT = 0.0010729323712702248 ETH
+Users sell 7310014.64 BIT for 8165.41 ETH. Effective price: 1 BIT = 0.0011170170705788848 ETH
+Exchanger reserve: 14043.72 ETH ($4213115)
+BIT growth percentage from beginning: 2134%
+
+===MONTH 27===
+3350 merchants buy 8549993.40 BIT for 10050.00 ETH ($3015000). Effective price: 1 BIT = 0.0011754395035453254 ETH
+Users sell 7503435.77 BIT for 9136.96 ETH. Effective price: 1 BIT = 0.0012177034956580306 ETH
+Exchanger reserve: 14956.76 ETH ($4487027)
+BIT growth percentage from beginning: 2335%
+
+===MONTH 28===
+3677 merchants buy 8643703.82 BIT for 11031.00 ETH ($3309300). Effective price: 1 BIT = 0.0012761890313823488 ETH
+Users sell 7699289.19 BIT for 10143.14 ETH. Effective price: 1 BIT = 0.0013174129457565358 ETH
+Exchanger reserve: 15844.61 ETH ($4753384)
+BIT growth percentage from beginning: 2535%
+
+===MONTH 29===
+4021 merchants buy 8763862.02 BIT for 12063.00 ETH ($3618900). Effective price: 1 BIT = 0.001376447960264533 ETH
+Users sell 7886314.33 BIT for 11179.65 ETH. Effective price: 1 BIT = 0.001417600912532904 ETH
+Exchanger reserve: 16727.97 ETH ($5018390)
+BIT growth percentage from beginning: 2735%
+
+===MONTH 30===
+4385 merchants buy 8900020.35 BIT for 13155.00 ETH ($3946500). Effective price: 1 BIT = 0.0014780865080180298 ETH
+Users sell 8068641.36 BIT for 12262.74 ETH. Effective price: 1 BIT = 0.0015198027150246395 ETH
+Exchanger reserve: 17620.22 ETH ($5286067)
+BIT growth percentage from beginning: 2940%
+
+===MONTH 31===
+4771 merchants buy 9757302.63 BIT for 15903.33 ETH ($4771000). Effective price: 1 BIT = 0.0016298903428701114 ETH
+Users sell 8600098.89 BIT for 14565.10 ETH. Effective price: 1 BIT = 0.0016935963032361236 ETH
+Exchanger reserve: 18958.46 ETH ($5687538)
+BIT growth percentage from beginning: 3287%
+
+===MONTH 32===
+5180 merchants buy 9728891.16 BIT for 17266.67 ETH ($5180000). Effective price: 1 BIT = 0.001774782591460237 ETH
+Users sell 8715134.70 BIT for 15995.12 ETH. Effective price: 1 BIT = 0.0018353262902607852 ETH
+Exchanger reserve: 20230.01 ETH ($6069004)
+BIT growth percentage from beginning: 3571%
+
+===MONTH 33===
+5615 merchants buy 9763892.92 BIT for 18716.67 ETH ($5615000). Effective price: 1 BIT = 0.0019169266613839725 ETH
+Users sell 8839439.11 BIT for 17469.95 ETH. Effective price: 1 BIT = 0.0019763646342868734 ETH
+Exchanger reserve: 21476.72 ETH ($6443017)
+BIT growth percentage from beginning: 3853%
+
+===MONTH 34===
+6076 merchants buy 9833664.57 BIT for 20253.33 ETH ($6076000). Effective price: 1 BIT = 0.002059591640071857 ETH
+Users sell 8966186.22 BIT for 19002.41 ETH. Effective price: 1 BIT = 0.00211934174931375 ETH
+Exchanger reserve: 22727.64 ETH ($6818293)
+BIT growth percentage from beginning: 4139%
+
+===MONTH 35===
+6551 merchants buy 9908392.84 BIT for 21836.67 ETH ($6551000). Effective price: 1 BIT = 0.002203855562635727 ETH
+Users sell 9077325.96 BIT for 20559.74 ETH. Effective price: 1 BIT = 0.0022649553685283705 ETH
+Exchanger reserve: 24004.57 ETH ($7201372)
+BIT growth percentage from beginning: 4430%
+
+===MONTH 36===
+7041 merchants buy 9980799.30 BIT for 23470.00 ETH ($7041000). Effective price: 1 BIT = 0.0023515150744224654 ETH
+Users sell 9187796.89 BIT for 22175.39 ETH. Effective price: 1 BIT = 0.0024135697320925614 ETH
+Exchanger reserve: 25299.18 ETH ($7589755)
+BIT growth percentage from beginning: 4727%
+
+===MONTH 37===
+7548 merchants buy 10055489.26 BIT for 25160.00 ETH ($7548000). Effective price: 1 BIT = 0.002502115944156975 ETH
+Users sell 9291809.94 BIT for 23838.69 ETH. Effective price: 1 BIT = 0.002565559636541558 ETH
+Exchanger reserve: 26620.49 ETH ($7986148)
+BIT growth percentage from beginning: 5031%
+
+===MONTH 38===
+8072 merchants buy 10129157.03 BIT for 26906.67 ETH ($8072000). Effective price: 1 BIT = 0.0026563579354886 ETH
+Users sell 9397106.88 BIT for 25567.42 ETH. Effective price: 1 BIT = 0.0027207760424631227 ETH
+Exchanger reserve: 27959.74 ETH ($8387921)
+BIT growth percentage from beginning: 5342%
+
+===MONTH 39===
+8615 merchants buy 10205831.49 BIT for 28716.67 ETH ($8615000). Effective price: 1 BIT = 0.00281375081560758 ETH
+Users sell 9505712.43 BIT for 27365.61 ETH. Effective price: 1 BIT = 0.002878859266381925 ETH
+Exchanger reserve: 29310.79 ETH ($8793238)
+BIT growth percentage from beginning: 5658%
+
+===MONTH 40===
+9178 merchants buy 10287239.55 BIT for 30593.33 ETH ($9178000). Effective price: 1 BIT = 0.0029739108504595606 ETH
+Users sell 9618501.87 BIT for 29235.32 ETH. Effective price: 1 BIT = 0.0030394875637277828 ETH
+Exchanger reserve: 30668.81 ETH ($9200643)
+BIT growth percentage from beginning: 5979%
+
+===MONTH 41===
+9762 merchants buy 10374450.80 BIT for 32540.00 ETH ($9762000). Effective price: 1 BIT = 0.0031365515764688735 ETH
+Users sell 9728429.18 BIT for 31162.29 ETH. Effective price: 1 BIT = 0.0032032188587008026 ETH
+Exchanger reserve: 32046.52 ETH ($9613957)
+BIT growth percentage from beginning: 6306%
+
+===MONTH 42===
+10369 merchants buy 10464686.58 BIT for 34563.33 ETH ($10369000). Effective price: 1 BIT = 0.003302854132940848 ETH
+Users sell 9842914.30 BIT for 33173.27 ETH. Effective price: 1 BIT = 0.0033702688644895334 ETH
+Exchanger reserve: 33436.59 ETH ($10030977)
+BIT growth percentage from beginning: 6641%
+
+===MONTH 43===
+11001 merchants buy 11273950.58 BIT for 40337.00 ETH ($12101100). Effective price: 1 BIT = 0.0035778939872214235 ETH
+Users sell 10311624.55 BIT for 38054.69 ETH. Effective price: 1 BIT = 0.0036904648498414304 ETH
+Exchanger reserve: 35718.90 ETH ($10715670)
+BIT growth percentage from beginning: 7281%
+
+===MONTH 44===
+11659 merchants buy 11173663.09 BIT for 42749.67 ETH ($12824900). Effective price: 1 BIT = 0.0038259312398136193 ETH
+Users sell 10364247.53 BIT for 40699.42 ETH. Effective price: 1 BIT = 0.003926905203459567 ETH
+Exchanger reserve: 37769.15 ETH ($11330745)
+BIT growth percentage from beginning: 7754%
+
+===MONTH 45===
+12345 merchants buy 11153046.66 BIT for 45265.00 ETH ($13579500). Effective price: 1 BIT = 0.004058532288647182 ETH
+Users sell 10441454.19 BIT for 43357.80 ETH. Effective price: 1 BIT = 0.004152467267940963 ETH
+Exchanger reserve: 39676.35 ETH ($11902906)
+BIT growth percentage from beginning: 8205%
+
+===MONTH 46===
+13061 merchants buy 11181655.13 BIT for 47890.33 ETH ($14367100). Effective price: 1 BIT = 0.00428293779212775 ETH
+Users sell 10532946.21 BIT for 46061.61 ETH. Effective price: 1 BIT = 0.0043730987581103746 ETH
+Exchanger reserve: 41505.07 ETH ($12451522)
+BIT growth percentage from beginning: 8646%
+
+===MONTH 47===
+13807 merchants buy 11239624.18 BIT for 50625.67 ETH ($15187700). Effective price: 1 BIT = 0.004504213473815999 ETH
+Users sell 10624358.15 BIT for 48807.92 ETH. Effective price: 1 BIT = 0.004593964519108927 ETH
+Exchanger reserve: 43322.81 ETH ($12996844)
+BIT growth percentage from beginning: 9088%
+
+===MONTH 48===
+14586 merchants buy 11311872.21 BIT for 53482.00 ETH ($16044600). Effective price: 1 BIT = 0.004727952987513985 ETH
+Users sell 10725824.73 BIT for 51671.68 ETH. Effective price: 1 BIT = 0.004817501562983911 ETH
+Exchanger reserve: 45133.14 ETH ($13539941)
+BIT growth percentage from beginning: 9535%
+
+===MONTH 49===
+15400 merchants buy 11396744.76 BIT for 56466.67 ETH ($16940000). Effective price: 1 BIT = 0.004954631155612219 ETH
+Users sell 10827462.14 BIT for 54631.15 ETH. Effective price: 1 BIT = 0.00504561029542477 ETH
+Exchanger reserve: 46968.65 ETH ($14090595)
+BIT growth percentage from beginning: 9991%
+
+===MONTH 50===
+16250 merchants buy 11487287.47 BIT for 59583.33 ETH ($17875000). Effective price: 1 BIT = 0.0051868932074714625 ETH
+Users sell 10933801.48 BIT for 57722.92 ETH. Effective price: 1 BIT = 0.005279309028143975 ETH
+Exchanger reserve: 48829.07 ETH ($14648720)
+BIT growth percentage from beginning: 10459%
+
+===MONTH 51===
+17138 merchants buy 11583478.40 BIT for 62839.33 ETH ($18851800). Effective price: 1 BIT = 0.00542491047662509 ETH
+Users sell 11043640.35 BIT for 60949.78 ETH. Effective price: 1 BIT = 0.005518993162396887 ETH
+Exchanger reserve: 50718.62 ETH ($15215587)
+BIT growth percentage from beginning: 10938%
+
+===MONTH 52===
+18067 merchants buy 11684960.05 BIT for 66245.67 ETH ($19873700). Effective price: 1 BIT = 0.0056693104986254165 ETH
+Users sell 11156158.81 BIT for 64320.01 ETH. Effective price: 1 BIT = 0.0057654263647652654 ETH
+Exchanger reserve: 52644.28 ETH ($15793283)
+BIT growth percentage from beginning: 11431%
+
+===MONTH 53===
+19039 merchants buy 11790522.54 BIT for 69809.67 ETH ($20942900). Effective price: 1 BIT = 0.005920828907140088 ETH
+Users sell 11263301.30 BIT for 67813.21 ETH. Effective price: 1 BIT = 0.00602072258475332 ETH
+Exchanger reserve: 54640.73 ETH ($16392220)
+BIT growth percentage from beginning: 11941%
+
+===MONTH 54===
+20056 merchants buy 11894877.04 BIT for 73538.67 ETH ($22061600). Effective price: 1 BIT = 0.006182381406405814 ETH
+Users sell 11371158.31 BIT for 71476.82 ETH. Effective price: 1 BIT = 0.006285799335457564 ETH
+Exchanger reserve: 56702.58 ETH ($17010774)
+BIT growth percentage from beginning: 12472%
+
+===MONTH 55===
+21121 merchants buy 12705740.00 BIT for 84484.00 ETH ($25345200). Effective price: 1 BIT = 0.006649278202490254 ETH
+Users sell 11825532.07 BIT for 80833.53 ETH. Effective price: 1 BIT = 0.006835509183595708 ETH
+Exchanger reserve: 60353.05 ETH ($18105914)
+BIT growth percentage from beginning: 13571%
+
+===MONTH 56===
+22237 merchants buy 12596473.12 BIT for 88948.00 ETH ($26684400). Effective price: 1 BIT = 0.007061341628654837 ETH
+Users sell 11856856.48 BIT for 85691.45 ETH. Effective price: 1 BIT = 0.007227164708900131 ETH
+Exchanger reserve: 63609.59 ETH ($19082877)
+BIT growth percentage from beginning: 14354%
+
+===MONTH 57===
+23405 merchants buy 12570285.53 BIT for 93620.00 ETH ($28086000). Effective price: 1 BIT = 0.007447722628012963 ETH
+Users sell 11912952.09 BIT for 90572.50 ETH. Effective price: 1 BIT = 0.007602859706742603 ETH
+Exchanger reserve: 66657.09 ETH ($19997126)
+BIT growth percentage from beginning: 15106%
+
+===MONTH 58===
+24629 merchants buy 12592205.35 BIT for 98516.00 ETH ($29554800). Effective price: 1 BIT = 0.007823570000098421 ETH
+Users sell 11982310.73 BIT for 95552.99 ETH. Effective price: 1 BIT = 0.007974504590079524 ETH
+Exchanger reserve: 69620.10 ETH ($20886029)
+BIT growth percentage from beginning: 15849%
+
+===MONTH 59===
+25911 merchants buy 12641124.24 BIT for 103644.00 ETH ($31093200). Effective price: 1 BIT = 0.008198954306415082 ETH
+Users sell 12058016.64 BIT for 100683.60 ETH. Effective price: 1 BIT = 0.008349930273628197 ETH
+Exchanger reserve: 72580.50 ETH ($21774149)
+BIT growth percentage from beginning: 16600%
+
+===MONTH 60===
+27255 merchants buy 12705155.72 BIT for 109020.00 ETH ($32706000). Effective price: 1 BIT = 0.008580768504011821 ETH
+Users sell 12143399.39 BIT for 106044.95 ETH. Effective price: 1 BIT = 0.008732723255058935 ETH
+Exchanger reserve: 75555.55 ETH ($22666666)
+BIT growth percentage from beginning: 17365%
